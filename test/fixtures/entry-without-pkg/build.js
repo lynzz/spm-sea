@@ -1,0 +1,1 @@
+define("/a",[],function(n,o,e){console.log("a.js")});
